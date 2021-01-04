@@ -3,7 +3,9 @@
 ### Pre-requisite
 
 Install Python3
+
 `git clone https://github.com/makaraju/wp_merge.git`
+
 `pip3 install -r requirements.txt`
 
 ### Merge Accounts
